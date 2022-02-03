@@ -1,7 +1,6 @@
 ## Hi there, I'm Shashwat !! 
 
-## Let's connect: 
-<br/>
+
 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/shashwat-code/shashwat-code/blob/master/pngs/linkedin.png?raw=true" />](https://www.linkedin.com/in/shashwat-chauhan-3009461b0/)
