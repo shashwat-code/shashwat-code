@@ -1,16 +1,5 @@
-## Hi there, I'm Shashwat 
+## Hi there, I'm Shashwat !! 
 
-##  I'm Student 
-- 🌱  Currently learning everything 
-- ⚡️ Fun Fact: I love create IOS Application 
-
-### 🥅  2022 Goals:
-- Contribute to open source
-- Build something exiting
-
-<br />
-
-##
 ## Let's connect: 
 <br/>
 
