@@ -1,11 +1,12 @@
 ## Hi there, I'm Shashwat 
 
 ##  I'm Student 
-- 🌱  Currently learning everthing 
-- 🥅  2022 Goals:
-             - Contribute to open source
-             - Build something exiting
+- 🌱  Currently learning everything 
 - ⚡️ Fun Fact: I love create IOS Application 
+
+### 🥅  2022 Goals:
+- Contribute to open source
+- Build something exiting
 
 <br />
 
@@ -14,7 +15,7 @@
 <br/>
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/shashwat-code/shashwat-code/blob/master/pngs/linkedin.png?raw=true" />]("https://www.linkedin.com/in/shashwat-chauhan-3009461b0/")
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/shashwat-code/shashwat-code/blob/master/pngs/linkedin.png?raw=true" />](https://www.linkedin.com/in/shashwat-chauhan-3009461b0/)
 <br/>
 
 
